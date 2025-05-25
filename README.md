@@ -8,7 +8,7 @@
 
 **DESCRIPTION OF TASK 1 ABOUT MY OUTPUT:**
   Here my task was redesign the website landing page in figma.
-  **UBER WEBSITE REDESIGN- BEFORE AND AFTER DESCRIPTION:
+  **UBER WEBSITE REDESIGN- BEFORE AND AFTER DESCRIPTION**:
      **Before (Left Side of the Image):**
 The original design of the Uber website is clean and minimal, with a predominantly white background and a simplistic layout. The homepage is largely text-based with limited visual appeal. It starts with a plain navigation bar featuring essential links like “Ride,” “Drive,” “Business,” “About,” and “Help.” The “Log in” option is located in the top-right corner. Below this, the user is prompted to input pickup and drop-off locations in a very basic input form, lacking visual cues or engaging UI elements.
 
@@ -35,4 +35,4 @@ The redesigned Uber website transitions from a plain, utilitarian layout to a vi
 
 **OUTPUT**: 
 
-C:\Users\ELCOT\Downloads\REDESIGNING the uber website.png
+

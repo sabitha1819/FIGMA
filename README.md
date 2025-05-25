@@ -35,4 +35,6 @@ The redesigned Uber website transitions from a plain, utilitarian layout to a vi
 
 **OUTPUT**: 
 
+![Image](https://github.com/user-attachments/assets/5119127a-9061-4c0e-9a5f-54517d0149cc)
+
 
